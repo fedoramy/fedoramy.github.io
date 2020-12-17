@@ -14,7 +14,7 @@ it will create a virtual environment for you
 
 To begin using the virtual environment, it needs to be activated:
 ```
-$ source venv/bin/activate
+$ source env/bin/activate
 ```
 
 Now install the package dependencies.
@@ -65,7 +65,7 @@ where "builder" is one of the supported builders, e.g. html, latex or linkcheck.
 
 ### set up ablog (example)
 ```
-]$ ablog start
+$ ablog start
 Welcome to the ABlog 0.10.12 quick start utility.
 
 Please enter values for the following settings (just press Enter to accept a

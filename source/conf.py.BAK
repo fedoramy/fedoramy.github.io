@@ -21,6 +21,9 @@ project = 'Fedora Malaysia'
 copyright = '2020, Robbi Nespu'
 author = 'Robbi Nespu'
 
+# The full version, including alpha/beta/rc tags
+release = '1.0.0'
+
 
 # -- General configuration ---------------------------------------------------
 
@@ -28,9 +31,6 @@ author = 'Robbi Nespu'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-    '...',
-    'ablog',
-    'sphinx.ext.intersphinx',
 ]
 
 # Add any paths that contain templates here, relative to this directory.

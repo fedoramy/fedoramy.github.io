@@ -1,7 +1,7 @@
 
-.. Fedora Malaysia post example, created by `ablog start` on Dec 09, 2020.
+.. Fedora Malaysia post example, created by `ablog start` on Dec 17, 2020.
 
-.. post:: Dec 09, 2020
+.. post:: Dec 17, 2020
    :tags: atag
    :author: Robbi Nespu
 
